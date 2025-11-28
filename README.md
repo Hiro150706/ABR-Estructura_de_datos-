@@ -82,8 +82,9 @@ struct Persona {
     string ocupacion;         // Ocupación o profesión
     string genero;            // Género (Masculino/Femenino)
     Persona* izq;             // Hijo izquierdo
-    Persona* der;             // Hijo derecho
+    Persona* der; 
 };
+
 
 ##  📁 Estructura del Sistema
 # Menú Principal
